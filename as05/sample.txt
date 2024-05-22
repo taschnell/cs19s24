@@ -1,0 +1,18 @@
+IHDR (13)
+1200x1200 8-bit truecolour with alpha non-interlaced
+gAMA (4)
+cHRM (32)
+bKGD (6)
+tIME (7)
+2023-03-04 06:20:55
+IDAT (32768)
+IDAT (9775)
+tEXt (86)
+Comment: Render Date: 2022-06-02 16:23:50Z
+tEXt (37)
+date:create: 2023-03-04T06:20:55+00:00
+tEXt (37)
+date:modify: 2023-03-04T06:20:55+00:00
+tEXt (35)
+Software: POV-Ray 3.7.0.8.unofficial
+IEND (0)
